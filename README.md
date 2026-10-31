@@ -1,11 +1,5 @@
-# CNC Drawer Organizer v1.0
+CNC Drawer Organizer v1.1
 
-Nuova gestione scaffale portabareni:
-- Il modulo di aggiunta rimane nascosto finché non si preme «+ Aggiungi portabareno».
-- Modifica apre il modulo compilato; Salva o Annulla lo richiudono.
-- Per filettatura metrica e trapezoidale non viene più richiesto il passo.
-- Campo facoltativo per codice inserto personalizzato.
-- I dati esistenti restano nello stesso localStorage; gli eventuali passi storici restano nei dati ma non vengono più mostrati.
-- Immagini .webp incluse; caricare tutti i file nella radice del repository GitHub Pages.
+Novità: in tutti i cassetti il modulo di registrazione è nascosto fino alla pressione di + Aggiungi utensile. La modifica apre il modulo compilato. Salvataggio e annullamento lo richiudono. Lo scaffale mantiene la stessa funzionalità.
 
-Nota: dati locali al browser, non sincronizzati con GitHub.
+Carica index.html e gli 8 file inserto_*.webp nella radice del repository GitHub Pages. Le chiavi localStorage rimangono invariate.

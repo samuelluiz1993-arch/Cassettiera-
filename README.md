@@ -1,5 +1,5 @@
-CNC Drawer Organizer v1.6
+CNC Drawer Organizer v1.7
 
-Novità: etichette colorate TRAPEZOIDALE / METRICO e direzione DX/SX sui bareni per filettatura, filtri Tutti / Trapezoidali / Metrici.
+Schede compatte dei bareni per filettatura, pulsanti icona modifica/elimina con etichette accessibili e conferma eliminazione. Nessuna modifica alle chiavi localStorage o ai dati.
 
-Aggiornamento: sostituire index.html nel repository GitHub Pages. Nessuna modifica alle chiavi di salvataggio; fare comunque un backup JSON prima di aggiornare.
+Caricare index.html e mantenere gli eventuali file .webp. Eseguire backup JSON prima di aggiornare.

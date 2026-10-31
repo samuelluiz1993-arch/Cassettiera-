@@ -1,5 +1,7 @@
-# CNC Drawer Organizer v0.7
+CNC Drawer Organizer v0.8
 
-Cassetto 2: selezione visiva forma inserto, dimensione ISO, lavorazione, marca, grado, materiali e ricerca. Conserva i dati locali delle versioni precedenti.
+Immagini illustrative realistiche degli inserti nella selezione e nelle schede del cassetto 2. I dati locali restano invariati.
 
-Aprire index.html o pubblicarlo su GitHub Pages.
+Pubblicazione: caricare index.html e tutti gli 8 file .webp nella radice del repository GitHub Pages. Non caricare soltanto index.html.
+
+Le immagini sono rappresentazioni generate e non fotografie certificate di inserti specifici.

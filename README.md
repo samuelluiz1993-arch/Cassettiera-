@@ -1,9 +1,9 @@
-# CNC Drawer Organizer v0.3
+# CNC Drawer Organizer v0.4
 
-App statica per GitHub Pages. Sostituire index.html nel repository.
+App statica per GitHub Pages. Apri `index.html` per usarla.
 
-I dati della v0.2 sono mantenuti grazie alla stessa chiave localStorage.
+Novità: selezione della misura del maschio, passi metrici proposti automaticamente, GAS con TPI automatico, misure e passi personalizzati.
 
-Cassetto 3: punta/fresa, diametro, lunghezza utile, materiale e refrigerante interno per le punte. Cassetto 4: maschi metrici/GAS, a taglio/a rullare, misura e passo per metrici.
+**Dati:** rimangono nel localStorage del browser (stessa chiave delle versioni 0.2 e 0.3); non sono sincronizzati tra dispositivi. Non cancellare i dati del sito.
 
-I dati sono locali al browser; non sono sincronizzati.
+Aggiornamento: sostituisci `index.html` nella radice del repository GitHub e attendi GitHub Pages.

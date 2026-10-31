@@ -1,5 +1,5 @@
-# CNC Drawer Organizer v0.5
+# CNC Drawer Organizer v0.6
 
-Raggruppamento automatico utensili identici, quantità +/- e materiali ISO lavorabili per i maschi. I dati sono conservati nel localStorage originale v0.2.
+Aggiunti i passi 7, 8, 9, 10, 12, 14, 16 mm per gli inserti trapezoidali Seco SX (cassetto 1B) e DX (cassetto 1C). Quantità e raggruppamento automatico per passo e direzione. Conservata la chiave localStorage della versione 0.2 per mantenere i dati esistenti.
 
-Aggiorna index.html nel repository GitHub Pages. I materiali ISO sono selezionati dall’utente, non sono suggerimenti di compatibilità del produttore.
+Pubblicazione: sostituire index.html nel repository GitHub Pages.

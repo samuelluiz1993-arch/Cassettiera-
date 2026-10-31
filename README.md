@@ -1,9 +1,11 @@
-# CNC Drawer Organizer v0.9
+# CNC Drawer Organizer v1.0
 
-Nuova pagina **Scaffale portabareni** con due ripiani: tornitura e filettatura metrica/trapezoidale.
+Nuova gestione scaffale portabareni:
+- Il modulo di aggiunta rimane nascosto finché non si preme «+ Aggiungi portabareno».
+- Modifica apre il modulo compilato; Salva o Annulla lo richiudono.
+- Per filettatura metrica e trapezoidale non viene più richiesto il passo.
+- Campo facoltativo per codice inserto personalizzato.
+- I dati esistenti restano nello stesso localStorage; gli eventuali passi storici restano nei dati ma non vengono più mostrati.
+- Immagini .webp incluse; caricare tutti i file nella radice del repository GitHub Pages.
 
-Schede: diametro gambo, lunghezza totale, diametro minimo lavorabile, attacco inserto, marca, refrigerante interno e note; per filettatura tipo, passo trapezoidale facoltativo e direzione.
-
-I dati della cassettiera usano ancora la chiave localStorage originale `cnc-drawer-organizer-v02`; lo scaffale usa `cnc-drawer-organizer-shelf-v09`. I dati sono locali al browser e non vengono sincronizzati su GitHub.
-
-Per aggiornare GitHub Pages, sostituire `index.html` e mantenere gli otto file immagine `inserto_*.webp` della v0.8 nella stessa cartella.
+Nota: dati locali al browser, non sincronizzati con GitHub.

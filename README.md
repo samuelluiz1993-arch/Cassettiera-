@@ -1,5 +1,7 @@
-CNC Drawer Organizer v1.9
+CNC Drawer Organizer v2.0.1
 
-Modifiche: pulsanti Modifica ed Elimina affiancati nelle schede della cassettiera; etichette versione uniformate a 1.9. Dati locali e backup invariati.
+Correzioni: i cassetti personalizzati appaiono all’interno della cassettiera, in ordine di codice al momento della creazione; non compaiono nelle altre sezioni. Contatore cassetti aggiornato automaticamente.
 
-Pubblicare tutti i file nella root di GitHub Pages.
+I dati locali e le chiavi di archiviazione sono invariati. Prima dell’aggiornamento esportare un backup JSON.
+
+Pubblicare index.html e tutti i file .webp nella root di GitHub Pages.

@@ -1,5 +1,5 @@
-CNC Drawer Organizer v1.8
+CNC Drawer Organizer v1.9
 
-Aggiornamento grafico: pulsanti Modifica ed Elimina sostituiti da icone compatte in tutte le sezioni. Logica e dati locali invariati.
+Modifiche: pulsanti Modifica ed Elimina affiancati nelle schede della cassettiera; etichette versione uniformate a 1.9. Dati locali e backup invariati.
 
-Prima di aggiornare esportare un backup. Pubblicare index.html e tutte le risorse nella stessa cartella.
+Pubblicare tutti i file nella root di GitHub Pages.

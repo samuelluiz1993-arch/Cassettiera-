@@ -1,12 +1,5 @@
-# CNC Drawer Organizer v0.1
+# CNC Drawer Organizer v0.2
 
-App web statica per smartphone che riproduce una cassettiera CNC di quattro livelli e sei cassetti.
+App statica per GitHub Pages. Apri un cassetto e aggiungi, modifica o elimina utensili (codice/nome e descrizione). I dati sono salvati nel localStorage del browser sul dispositivo corrente: non si sincronizzano tra dispositivi e possono sparire cancellando i dati del sito.
 
-## Avvio
-Apri `index.html` nel browser oppure pubblica il contenuto della cartella su GitHub Pages o Netlify (senza build).
-
-## Versione 0.1
-- Tre cassetti piccoli uguali al primo livello: viteria, trapezoidale SX, trapezoidale DX.
-- Tre cassetti grandi: inserti tornitura, punte e frese, maschi.
-- Cassetti cliccabili e schermata dedicata vuota.
-- Nessuna registrazione utensili prevista in questa versione.
+Per aggiornare il repository sostituisci `index.html` nella cartella principale.

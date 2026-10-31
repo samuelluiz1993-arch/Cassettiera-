@@ -1,10 +1,5 @@
-# CNC Drawer Organizer v1.5
-Restyling grafico compatto e uniforme senza immagini degli utensili.
+CNC Drawer Organizer v1.6
 
-## Aggiornamento
-Caricare `index.html` nel repository GitHub Pages al posto del precedente.
-I file .webp sono mantenuti per compatibilità, ma non vengono mostrati.
+Novità: etichette colorate TRAPEZOIDALE / METRICO e direzione DX/SX sui bareni per filettatura, filtri Tutti / Trapezoidali / Metrici.
 
-## Dati
-Le chiavi localStorage e la logica di backup della v1.4 restano invariate.
-Prima di aggiornare, esportare comunque un backup JSON dalla v1.4.
+Aggiornamento: sostituire index.html nel repository GitHub Pages. Nessuna modifica alle chiavi di salvataggio; fare comunque un backup JSON prima di aggiornare.

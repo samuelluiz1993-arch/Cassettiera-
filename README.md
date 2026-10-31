@@ -1,5 +1,9 @@
-# CNC Drawer Organizer v0.2
+# CNC Drawer Organizer v0.3
 
-App statica per GitHub Pages. Apri un cassetto e aggiungi, modifica o elimina utensili (codice/nome e descrizione). I dati sono salvati nel localStorage del browser sul dispositivo corrente: non si sincronizzano tra dispositivi e possono sparire cancellando i dati del sito.
+App statica per GitHub Pages. Sostituire index.html nel repository.
 
-Per aggiornare il repository sostituisci `index.html` nella cartella principale.
+I dati della v0.2 sono mantenuti grazie alla stessa chiave localStorage.
+
+Cassetto 3: punta/fresa, diametro, lunghezza utile, materiale e refrigerante interno per le punte. Cassetto 4: maschi metrici/GAS, a taglio/a rullare, misura e passo per metrici.
+
+I dati sono locali al browser; non sono sincronizzati.

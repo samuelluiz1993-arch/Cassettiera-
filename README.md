@@ -1,7 +1,9 @@
-CNC Drawer Organizer v0.8
+# CNC Drawer Organizer v0.9
 
-Immagini illustrative realistiche degli inserti nella selezione e nelle schede del cassetto 2. I dati locali restano invariati.
+Nuova pagina **Scaffale portabareni** con due ripiani: tornitura e filettatura metrica/trapezoidale.
 
-Pubblicazione: caricare index.html e tutti gli 8 file .webp nella radice del repository GitHub Pages. Non caricare soltanto index.html.
+Schede: diametro gambo, lunghezza totale, diametro minimo lavorabile, attacco inserto, marca, refrigerante interno e note; per filettatura tipo, passo trapezoidale facoltativo e direzione.
 
-Le immagini sono rappresentazioni generate e non fotografie certificate di inserti specifici.
+I dati della cassettiera usano ancora la chiave localStorage originale `cnc-drawer-organizer-v02`; lo scaffale usa `cnc-drawer-organizer-shelf-v09`. I dati sono locali al browser e non vengono sincronizzati su GitHub.
+
+Per aggiornare GitHub Pages, sostituire `index.html` e mantenere gli otto file immagine `inserto_*.webp` della v0.8 nella stessa cartella.

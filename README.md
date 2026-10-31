@@ -1,7 +1,12 @@
-CNC Drawer Organizer v1.3
+# CNC Drawer Organizer v1.4
 
-Nuova quarta sezione: Catalogo punte a cuspide. Registra corpi con intervallo diametri, profondità, marca, sistema attacco, refrigerante, quantità e cuspidi effettive con diametro, marca, codice e quantità.
+Aggiunto backup completo dei quattro cataloghi.
 
-Le sezioni e i dati delle versioni precedenti sono mantenuti. I dati sono salvati nel browser locale; effettuare backup prima di cancellare i dati del sito.
+- **Esporta backup**: scarica un file JSON con cassettiera, scaffale portabareni, punte a inserti e punte a cuspide.
+- **Importa backup**: verifica il file, chiede conferma e sostituisce i quattro cataloghi locali.
+- Non modifica i nomi delle chiavi localStorage usate dalle versioni precedenti.
+- I dati rimangono salvati nel browser; GitHub Pages non sincronizza i dati tra dispositivi.
 
-Pubblicazione GitHub Pages: caricare index.html e mantenere gli otto file .webp nella root del repository.
+Carica `index.html` e mantieni gli otto file `.webp` nella stessa cartella del repository GitHub Pages.
+
+Prima di importare, esporta una copia dei dati attuali.

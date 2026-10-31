@@ -1,9 +1,5 @@
-# CNC Drawer Organizer v0.4
+# CNC Drawer Organizer v0.5
 
-App statica per GitHub Pages. Apri `index.html` per usarla.
+Raggruppamento automatico utensili identici, quantità +/- e materiali ISO lavorabili per i maschi. I dati sono conservati nel localStorage originale v0.2.
 
-Novità: selezione della misura del maschio, passi metrici proposti automaticamente, GAS con TPI automatico, misure e passi personalizzati.
-
-**Dati:** rimangono nel localStorage del browser (stessa chiave delle versioni 0.2 e 0.3); non sono sincronizzati tra dispositivi. Non cancellare i dati del sito.
-
-Aggiornamento: sostituisci `index.html` nella radice del repository GitHub e attendi GitHub Pages.
+Aggiorna index.html nel repository GitHub Pages. I materiali ISO sono selezionati dall’utente, non sono suggerimenti di compatibilità del produttore.

@@ -1,3 +1,7 @@
-CNC Drawer Organizer v1.2
+CNC Drawer Organizer v1.3
 
-Aggiunta pagina Catalogo punte a inserti. Caricare index.html e gli 8 file .webp nella root di GitHub Pages. I dati precedenti mantengono le stesse chiavi localStorage. Le punte sono memorizzate nel browser con chiave dedicata.
+Nuova quarta sezione: Catalogo punte a cuspide. Registra corpi con intervallo diametri, profondità, marca, sistema attacco, refrigerante, quantità e cuspidi effettive con diametro, marca, codice e quantità.
+
+Le sezioni e i dati delle versioni precedenti sono mantenuti. I dati sono salvati nel browser locale; effettuare backup prima di cancellare i dati del sito.
+
+Pubblicazione GitHub Pages: caricare index.html e mantenere gli otto file .webp nella root del repository.

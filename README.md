@@ -1,5 +1,5 @@
-CNC Drawer Organizer v1.7
+CNC Drawer Organizer v1.8
 
-Schede compatte dei bareni per filettatura, pulsanti icona modifica/elimina con etichette accessibili e conferma eliminazione. Nessuna modifica alle chiavi localStorage o ai dati.
+Aggiornamento grafico: pulsanti Modifica ed Elimina sostituiti da icone compatte in tutte le sezioni. Logica e dati locali invariati.
 
-Caricare index.html e mantenere gli eventuali file .webp. Eseguire backup JSON prima di aggiornare.
+Prima di aggiornare esportare un backup. Pubblicare index.html e tutte le risorse nella stessa cartella.

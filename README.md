@@ -1,7 +1,9 @@
-CNC Drawer Organizer v2.0.1
+CNC Drawer Organizer v2.1
 
-Correzioni: i cassetti personalizzati appaiono all’interno della cassettiera, in ordine di codice al momento della creazione; non compaiono nelle altre sezioni. Contatore cassetti aggiornato automaticamente.
+- Cassettiera unica: cassetti originali e personalizzati visualizzati nella stessa lista.
+- I cassetti originali possono essere rinominati senza modificare il loro codice interno e senza perdere gli utensili.
+- Frecce su/giù spostano tutti i cassetti; ordine salvato e ripristinato al riavvio.
+- I cassetti originali non sono eliminabili per proteggere i cataloghi già esistenti.
+- Backup JSON include anche nomi e ordine; backup delle versioni precedenti compatibili.
 
-I dati locali e le chiavi di archiviazione sono invariati. Prima dell’aggiornamento esportare un backup JSON.
-
-Pubblicare index.html e tutti i file .webp nella root di GitHub Pages.
+Prima dell'aggiornamento esportare un backup JSON. Sostituire index.html e mantenere le immagini .webp nella root di GitHub Pages.
